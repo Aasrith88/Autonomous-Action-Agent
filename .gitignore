@@ -1,0 +1,11 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+
+# Databases
+orders.db
+
+# OS Files
+.DS_Store
